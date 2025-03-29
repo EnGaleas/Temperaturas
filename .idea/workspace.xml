@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be93eb1-a9ca-4843-99c9-ddfa713e2db2" name="Changes" comment="tarea">
-      <change afterPath="$PROJECT_DIR$/Calculo Descuento Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trabajando con Diccionarios en Python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +113,13 @@
       <workItem from="1742305983922" duration="354000" />
       <workItem from="1742306349718" duration="8000" />
       <workItem from="1742355766607" duration="1002000" />
+      <workItem from="1742490499145" duration="638000" />
+      <workItem from="1742671574388" duration="68000" />
+      <workItem from="1742853234829" duration="182000" />
+      <workItem from="1742853446152" duration="391000" />
+      <workItem from="1742854260582" duration="390000" />
+      <workItem from="1743283017702" duration="1299000" />
+      <workItem from="1743286448968" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="Delete .idea directory">
       <option name="closed" value="true" />
@@ -170,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742099459022</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tarea">
+      <option name="closed" value="true" />
+      <created>1742490731733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742490731733</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +199,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="tarea" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Temperaturas$Calculo_Descuento_Python.coverage" NAME="Calculo Descuento Python Coverage Results" MODIFIED="1742306077147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Temperaturas$Calculo_Descuento_Python.coverage" NAME="Calculo Descuento Python Coverage Results" MODIFIED="1743287242284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
